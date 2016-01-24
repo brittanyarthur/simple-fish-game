@@ -5,3 +5,10 @@ Step 1. go to: http://www.pygame.org/download.shtml
 Step 2. download the 32 bit version of python if you do not already have it. look in /usr/local/bin for 32 bit versions of python. run the game with this. 
 	example: first_game$ /usr/local/bin/python2.7-32 game.py 
 	OR: How to specify python executable with venv: virtualenv -p /usr/bin/python2.7 venv
+
+RESOURCES
+
+- http://www.raywenderlich.com/24252/beginning-game-programming-for-teens-with-python
+
+
+
